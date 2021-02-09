@@ -1,0 +1,8 @@
+public class Pro1
+{
+public stati void main (String args[])
+{
+system.out.println("online");
+system.out.println("java");
+}
+}
